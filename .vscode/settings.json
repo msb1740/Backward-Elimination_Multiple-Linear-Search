@@ -1,8 +1,12 @@
 {
     "cSpell.words": [
-        "jogbaner",
-        "seeed",
         "iloc",
-        "printoptions"
+        "jogbaner",
+        "printoptions",
+        "seeed",
+        "statsmodels",
+        "X_opt",
+        "astype"
+
     ]
 }
